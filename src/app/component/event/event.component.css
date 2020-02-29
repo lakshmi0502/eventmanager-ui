@@ -1,0 +1,12 @@
+.event-wrapper{
+    border:10px solid blueviolet;
+    background-color: pink;
+    width:100px;
+    padding:100px;
+    display:inline-block;
+    width:100px;
+    margin: 50px;
+ }
+ .event-wrapper div{
+     margin-bottom: 20px;
+ }
